@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a student of Computer Engineering at the Unive
 
 - Currently, I'm pursuing my undergraduate degree in Computer Engineering, where I'm acquiring skills in various technologies and programming languages. 💻
 - I'm working on a project for the Software Engineering course called RentEase, an application that allows me to apply what I've learned during the course. 📚
-- I have experience in programming languages such as C, Java, and SQL through the courses I've taken and my internship. 🔧
+- I have experience in programming languages such as C, Java, HTML, JavaScript and SQL through the courses I've taken and my internship. 🔧
 
 ## Collaborations and Contributions
 
