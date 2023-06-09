@@ -1,19 +1,19 @@
-# Ciao, sono Gregorio Cavulla! 👋
+# Hi, I'm Gregorio Cavulla! 👋
 
-Benvenuto sul mio profilo GitHub! Sono uno studente di Ingegneria Informatica presso l'Università di Bologna. Mi appassiona l'apprendimento e lo sviluppo nel campo del software, e sto cercando di esplorare diverse aree di interesse. 🚀
+Welcome to my GitHub profile! I'm a student of Computer Engineering at the University of Bologna. I'm passionate about learning and software development, and I'm exploring various areas of interest. 🚀
 
-## Le mie competenze e progetti
+## My Skills and Projects
 
-- Attualmente sto seguendo il corso di Ingegneria Informatica triennale, dove sto acquisendo competenze in diverse tecnologie e linguaggi di programmazione. 💻
-- Sto lavorando su un progetto per il corso di Ingegneria del Software, l'abbiamo chiamato RentEase, un'applicazione che mi sta permettendo di mettere in pratica ciò che ho appreso durante il corso. 📚
-- Ho esperienza nello sviluppo in linguaggi come C, Java e SQL grazie ai corsi seguiti e al mio tirocinio. 🔧
+- Currently, I'm pursuing my undergraduate degree in Computer Engineering, where I'm acquiring skills in various technologies and programming languages. 💻
+- I'm working on a project for the Software Engineering course called RentEase, an application that allows me to apply what I've learned during the course. 📚
+- I have experience in programming languages such as C, Java, and SQL through the courses I've taken and my internship. 🔧
 
-## Collaborazioni e contribuzioni
+## Collaborations and Contributions
 
-Sono aperto a collaborazioni e contribuzioni su progetti open-source. Credo nell'importanza del lavoro di squadra e nell'apprendimento collaborativo. Se hai un progetto interessante in cui pensi che potrei contribuire, sarò felice di dare il mio contributo! 🤝
+I'm open to collaborations and contributions on open-source projects. I believe in the importance of teamwork and collaborative learning. If you have an interesting project where you think I can contribute, I'll be happy to contribute! 🤝
 
-## Contatti
+## Contact
 
-Puoi trovarmi anche su Instagram: [@ghigo_cavulla](https://www.instagram.com/ghigo_cavulla). Sono sempre interessato a connettermi con altri sviluppatori e appassionati di tecnologia. 📲
+You can also find me on Instagram: [@ghigo_cavulla](https://www.instagram.com/ghigo_cavulla). I'm always interested in connecting with other developers and technology enthusiasts. 📲
 
-Grazie per aver visitato il mio profilo GitHub! Non vedo l'ora di connettermi con la community e di esplorare nuove opportunità di apprendimento e collaborazione. 🌟
+Thank you for visiting my GitHub profile! I'm looking forward to connecting with the community and exploring new opportunities for learning and collaboration. 🌟
