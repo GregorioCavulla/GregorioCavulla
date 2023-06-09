@@ -6,7 +6,7 @@ Benvenuto sul mio profilo GitHub! Sono uno studente di Ingegneria Informatica pr
 
 - Attualmente sto seguendo il corso di Ingegneria Informatica triennale, dove sto acquisendo competenze in diverse tecnologie e linguaggi di programmazione. 💻
 - Sto lavorando su un progetto per il corso di Ingegneria del Software, l'abbiamo chiamato RentEase, un'applicazione che mi sta permettendo di mettere in pratica ciò che ho appreso durante il corso. 📚
-- Ho esperienza nello sviluppo in linguaggi come C, Java e SQL grazie ai corsi seguiti e al mio tirocinio. 🔧
+- Ho esperienza nello sviluppo in linguaggi come C, Java, HTML, JavaScript e SQL grazie ai corsi seguiti e al mio tirocinio. 🔧
 
 ## Collaborazioni e contribuzioni
 
